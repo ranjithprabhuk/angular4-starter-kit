@@ -17,6 +17,14 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# compiled output
+/dist
+/tmp
+
+# dependencies
+/node_modules
+/bower_components
+
 # =========================
 # Operating System Files
 # =========================
